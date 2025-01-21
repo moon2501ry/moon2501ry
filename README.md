@@ -9,4 +9,4 @@
 <img src="https://skillicons.dev/icons?i=py,cpp,cs"/>
 
 <h3>Tools:</h3>
-<img src="https://skillicons.dev/icons?i=windows,vscode,visualstudio,git,github"/>
+<img src="https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,visualstudio,git,github"/>
