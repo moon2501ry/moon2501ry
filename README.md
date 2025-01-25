@@ -6,7 +6,7 @@
 - 🏫 Completed elementary education
 
 <h3>Programming Languages:</h3>
-<img src="https://skillicons.dev/icons?i=py,html,js,css,cpp,cs"/>
+<img src="https://skillicons.dev/icons?i=py,js,html,css,cpp,cs"/>
 
 <h3>Tools:</h3>
 <img src="https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,visualstudio,git,github"/>
