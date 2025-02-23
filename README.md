@@ -15,3 +15,4 @@ Profiles:
 
 [![Steam Profile](https://img.shields.io/badge/Steam-Perfil-green?logo=steam)](https://steamcommunity.com/profiles/76561199232332554)
 [![Itch.io Profile](https://img.shields.io/badge/Itch.io-Perfil-fa5c5c?logo=itch.io&logoColor=white)](https://moon2501.itch.io/)
+[![Itch.io](https://img.shields.io/badge/Itch.io-%40moon2501-blue?style=social&logo=itch.io)](https://moon2501.itch.io/)
