@@ -2,7 +2,6 @@
 
 - ♂️ Gender Masculine
 - ⏳ 15 years old
-- Heterosexual and Cisgender
 - 🌐 Studying Python, Web Crawlers and MonoGame
 - 🏫 Completed elementary education
 
