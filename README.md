@@ -10,6 +10,3 @@
 
 <h3>Tools:</h3>
 <img src="https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,git,github"/>
-
-<h3>Social Media<h3>
-[![Steam](https://img.shields.io/badge/Steam-SteamProfile-blue)](https://steamcommunity.com/profiles/76561199232332554/)
