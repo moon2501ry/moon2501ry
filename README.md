@@ -11,4 +11,4 @@
 <h3>Tools:</h3>
 <img src="https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,git,github"/>
 
-[![Steam Profile](https://img.shields.io/badge/Steam-Profile-green?logo=steam)](https://steamcommunity.com/profiles/76561199232332554)
+[![Steam Profile](https://img.shields.io/badge/Steam-Perfil-green?logo=steam)](https://steamcommunity.com/profiles/76561199232332554)
