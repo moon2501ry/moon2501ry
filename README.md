@@ -3,7 +3,7 @@
 - ♂️ Gender Masculine
 - ⏳ 15 years old
 - 🌐 Studying Python, Web Crawlers and MonoGame
-- 🏫 Completed elementary education
+- 🏫 Studying technical high school.
 
 <h3>Programming Languages:</h3>
 <img src="https://skillicons.dev/icons?i=py,js,html,cpp"/>
