@@ -15,3 +15,7 @@ Profiles:
 [![Steam Profile](https://img.shields.io/badge/Steam-Profile-green?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/moon25ry)
 [![Itch.io Profile](https://img.shields.io/badge/Itch.io-Profile-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://moon2501.itch.io/)
 [![Gx.games](https://img.shields.io/badge/Gx.games-EonTailor-red?style=for-the-badge&logo=opera&logoColor=white)](https://gx.games/studios/458ae6ee-8c67-4584-a7b0-c0be620b83f3/)
+
+Contact:
+
+[![Email](https://img.shields.io/badge/Contact_Email-ryanamorimcontato@email.com-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
