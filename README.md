@@ -5,6 +5,8 @@
 - 🌐 Studying Python, Web Crawlers and MonoGame
 - 🏫 Studying technical high school.
 
+My profile picture is a fanart of a character from a friend of mine's manga (character based on me).
+
 <h3>Programming Languages:</h3>
 <img src="https://skillicons.dev/icons?i=py,js,html,cpp"/>
 <h3>Tools:</h3>
