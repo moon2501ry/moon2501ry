@@ -21,4 +21,4 @@ Profiles:
 Contact:
 
 [![Email](https://img.shields.io/badge/Contact_Email-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
-[![WeChat](https://img.shields.io/badge/WeChat-green?style=for-the-badge&logo=wechat&logoColor=white)](mailto:ryanamorimcontato@email.com)
+[![WeChat](https://img.shields.io/badge/WeChat-green?style=for-the-badge&logo=wechat&logoColor=white)]()
