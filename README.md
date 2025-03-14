@@ -20,4 +20,4 @@ Profiles:
 
 Contact:
 
-[![Email](https://img.shields.io/badge/Contact_Email-ryanamorimcontato@email.com-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
+[![Email](https://img.shields.io/badge/Contact_Contact_Email-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
