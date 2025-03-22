@@ -1,9 +1,9 @@
-<h1>Ryan's Profile</h1>
+<h1>Ryan Amorim Oliveira</h1>
 
 - ♂️ Gender Masculine
 - ⏳ 15 years old
-- 🌐 Studying Python, Web Crawlers and MonoGame
-- 🏫 Studying technical high school.
+- 🌐 Studying Python, PyGame, Web Crawlers and MonoGame
+- 🏫 Studying technical high school
 
 My profile picture is a fanart of a character from a friend of mine's manga (character based on me).
 
