@@ -1,11 +1,11 @@
 <h1>Ryan Amorim Oliveira</h1>
 
-- ♂️ Gender Masculine
-- ⏳ 15 years old
-- 🌐 Studying Python, PyGame, Web Crawlers and MonoGame
-- 🏫 Studying technical high school
+- ♂️ Gender **Masculine**
+- ⏳ **15** years old
+- 🌐 Studying **Python**, PyGame, Web Crawlers and MonoGame
+- 🏫 Studying **technical** high school
 
-My profile picture is a fanart of a character from a friend of mine's manga (character based on me).
+My profile **picture** is a **fanart of a character** from a **friend** of mine's manga (character **based on me**).
 
 <h3>Programming Languages:</h3>
 <img src="https://skillicons.dev/icons?i=py,js,html,cpp"/>
