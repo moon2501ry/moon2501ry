@@ -10,18 +10,9 @@ My profile **picture** is a **fanart of a character** from a **friend** of mine'
 ### Tools:
 ![Tools](https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,git,github)
 ### My main projects:
-<div>
-    <a href="https://github.com/moon2501ry/assistant-rpg" target="_blank">
-        <img src="images\assistrpg.png" alt="AssistRpg"/>
-    </a>
-    <a href="https://github.com/moon2501ry/fast-text" target="_blank">
-        <img src="images\fasttext.png" alt="FastText"/>
-    </a>
-    <a href="https://github.com/moon2501ry/msgs-bot-zap" target="_blank">
-        <img src="images\automsg.png" alt="AutoMsg"/>
-    </a>
-</div>
-
+[![AssistRpg](images/assistrpg.png)](https://github.com/moon2501ry/assistant-rpg)
+[![FastText](images/fasttext.png)](https://github.com/moon2501ry/fast-text)
+[![AutoMsg](images/automsg.png)](https://github.com/moon2501ry/msgs-bot-zap)
 ### Profiles:
 [![Steam Profile](https://img.shields.io/badge/Steam-Profile-green?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/moon25ry)
 [![Itch.io Profile](https://img.shields.io/badge/Itch.io-Profile-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://moon2501.itch.io/)
