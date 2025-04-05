@@ -7,12 +7,12 @@
 My profile **picture** is a **fanart of a character** from a **friend** of mine's manga (character **based on me**).
 ### Programming Languages:
 ![Languages](https://skillicons.dev/icons?i=py,js,html,cpp)
-### Tools:
-![Tools](https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,git,github)
 ### My main projects:
 [![AssistRpg](images/assistrpg.png)](https://github.com/moon2501ry/assistant-rpg)
 [![FastText](images/fasttext.png)](https://github.com/moon2501ry/fast-text)
 [![AutoMsg](images/automsg.png)](https://github.com/moon2501ry/msgs-bot-zap)
+### Tools:
+![Tools](https://skillicons.dev/icons?i=windows,vscode,gamemakerstudio,git,github)
 ### Profiles:
 [![Steam Profile](https://img.shields.io/badge/Steam-Profile-green?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/moon25ry)
 [![Itch.io Profile](https://img.shields.io/badge/Itch.io-Profile-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://moon2501.itch.io/)
