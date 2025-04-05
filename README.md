@@ -12,13 +12,13 @@ My profile **picture** is a **fanart of a character** from a **friend** of mine'
 ### My main projects:
 <div>
     <a href="https://github.com/moon2501ry/assistant-rpg" target="_blank">
-        <img src='images\assistrpg.png' alt="AssistRpg"/>
+        <img src="images\assistrpg.png" alt="AssistRpg"/>
     </a>
     <a href="https://github.com/moon2501ry/fast-text" target="_blank">
-        <img src='images\fasttext.png' alt="FastText"/>
+        <img src="images\fasttext.png" alt="FastText"/>
     </a>
     <a href="https://github.com/moon2501ry/msgs-bot-zap" target="_blank">
-        <img src='images\automsg.png' alt="AutoMsg"/>
+        <img src="images\automsg.png" alt="AutoMsg"/>
     </a>
 </div>
 
