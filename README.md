@@ -1,8 +1,8 @@
 ## Ryan Amo. Oli.
-- ♂️ Gender **Masculine**
-- ⏳ **15** years old
-- 🌱 I'm learning **Linux, Servers, Digital Circuits and Electricity**
-- 🏫 I am currently in **Technical** High School
+- ♂️ Gender **Masculine**;
+- ⏳ **15** years old;
+- 🌱 I'm learning **Python, Linux, Servers, Digital Circuits and Electricity**;
+- 🏫 I am currently in **Technical** High School.
 
 [![Email](https://img.shields.io/badge/Contact_Email-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
 [![Itch.io Profile](https://img.shields.io/badge/Itch.io-Profile-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white)](https://moon2501.itch.io/)
