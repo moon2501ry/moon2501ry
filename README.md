@@ -22,4 +22,4 @@
 #### Tools:
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,githubcopilot,itchio,github,gamemakerstudio)
 
-***P.S.:*** My profile **picture** is a **fanart of a character** from a **friend** of mine's manga (character **based on me**).
+***P.S.:*** My profile **picture** is a **fanart of a character** from a **friend** of mine's manga.
