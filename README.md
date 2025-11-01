@@ -18,7 +18,7 @@
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
 ## Work environment
 #### Desktop:
-![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,apt,debian,mint,kde)
+![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,debian,mint,cinnamon)
 #### Tools:
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,githubcopilot,itchio,github,gamemakerstudio)
 
