@@ -14,11 +14,11 @@
 [![AutoMsg](images/automsg.png)](https://github.com/moon2501ry/msgs-bot-zap)
 #### Programming languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,html,cpp)
-#### Libraries and frameworks:
+#### Libraries and frameworks:ubuntu,kde
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
 ## Work environment
 #### Desktop:
-![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,debian,ubuntu,kde)
+![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,apt,debian,mint,kde)
 #### Tools:
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,githubcopilot,itchio,github,gamemakerstudio)
 
