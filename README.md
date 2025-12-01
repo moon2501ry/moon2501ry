@@ -18,5 +18,3 @@
 ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,debian,mint)
 #### Tools:
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,githubcopilot,itchio,github)
-
-***P.S.:*** My profile **picture** is a **fanart of a character** from a **friend** of mine's manga.
