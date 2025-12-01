@@ -11,7 +11,7 @@
 ## Development Environment
 #### Programming languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,html,cpp)
-#### Libraries and frameworks:ubuntu,kde
+#### Libraries and frameworks:
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
 ## Work environment
 #### Desktop:
