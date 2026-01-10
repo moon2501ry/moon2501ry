@@ -19,7 +19,7 @@ Participated in events related to Computer Science, Software Development, and Mu
 Participated in the local Programming Olympiad in the Programming Logic category, taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
 ## Development Environment
 #### Programming languages:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=py,js,html,cpp)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,js,cpp)
 #### Libraries and frameworks:
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
 ## Work environment
