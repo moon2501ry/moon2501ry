@@ -1,8 +1,11 @@
 ## Ryan Amo. Oli.
-- ♂️ Gender **Masculine**;
 - ⏳ **15** years old;
 - 🌱 I'm learning **Go, Lua, Linux and APIs**;
 - 🏫 I am currently in **Technical** High School.
+- #### Technologies:
+  ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,cpp,fastapi,pygame,selenium)
+#### Brief Summary:
+Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, Go, Lua, C++ and GML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
 
 [![Gists GitHub](https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/moon2501ry)
 [![Discord](https://img.shields.io/badge/Discord-Profile-5d6af2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1310759970660286494)
@@ -12,17 +15,9 @@
 [![Email](https://img.shields.io/badge/Contact_Email-blue?style=for-the-badge&logo=maildotcom&logoColor=white)](mailto:ryanamorimcontato@email.com)
 [![ORCID ID](https://img.shields.io/badge/ORCID-c8ffc8?style=for-the-badge&logo=orcid&logoColor=black)](https://orcid.org/0009-0002-9553-9713)
 [![Lattes Curriculum](https://img.shields.io/badge/CNPq_Lattes-2368c8?style=for-the-badge)](http://lattes.cnpq.br/2286013190395148)
-### Brief Summary:
-Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, C++, JavaScript, GML, and HTML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
-
+- #### Desktop:
+  ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
+### Events
 Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
 
 Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
-___
-## Development Environment
-#### Programming languages:
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,js,cpp)
-#### Libraries and frameworks:
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
-#### Desktop:
-![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
