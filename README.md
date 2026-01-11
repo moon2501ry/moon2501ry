@@ -1,7 +1,7 @@
 ## Ryan Amo. Oli.
 - ♂️ Gender **Masculine**;
 - ⏳ **15** years old;
-- 🌱 I'm learning **Python, Linux and Servers**;
+- 🌱 I'm learning **Go, Lua, Linux and APIs**;
 - 🏫 I am currently in **Technical** High School.
 
 [![Gists GitHub](https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/moon2501ry)
