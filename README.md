@@ -15,16 +15,14 @@
 ### Brief Summary:
 Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, C++, JavaScript, GML, and HTML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
 
-Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus. 
+Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
 
-Participated in the local Programming Olympiad in the Programming Logic category, taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
+Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
+___
 ## Development Environment
 #### Programming languages:
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,js,cpp)
 #### Libraries and frameworks:
 ![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=fastapi,pygame,selenium)
-## Work environment
 #### Desktop:
-![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,bash,i3,debian,mint)
-#### Tools:
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,git,githubcopilot,itchio,github)
+![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
