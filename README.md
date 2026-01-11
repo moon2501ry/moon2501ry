@@ -5,7 +5,7 @@
 - #### Technologies:
   ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,cpp,fastapi,pygame,selenium)
 #### Brief Summary:
-Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, Go, Lua, C++ and GML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
+&emsp;Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, Go, Lua, C++ and GML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
 
 [![Gists GitHub](https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/moon2501ry)
 [![Discord](https://img.shields.io/badge/Discord-Profile-5d6af2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1310759970660286494)
@@ -18,6 +18,6 @@ Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Co
 - #### Desktop:
   ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
 ### Events
-Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
+&emsp;Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
 
-Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
+- Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
