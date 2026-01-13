@@ -1,3 +1,4 @@
+![View Counter](https://komarev.com/ghpvc/?username=moon2501ry&label=VIEWS&style=for-the-badge&color=lightgray)
 ## Ryan Amo. Oli.
 - ⏳ **15** years old;
 - 🌱 I'm learning **Go, Lua, Linux and APIs**;
