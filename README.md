@@ -16,12 +16,14 @@
   <a href="http://lattes.cnpq.br/2286013190395148" target="_blank"><img src="https://img.shields.io/badge/CNPq_Lattes-2368c8?style=for-the-badge" alt="Lattes Curriculum" target="_blank"></a>
 </div>
 
+___
 ### About Me:
 &emsp;Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, Go, Lua, C++ and GML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
 - #### Hard Skils:
   ![Technologies](https://go-skill-icons.vercel.app/api/icons?i=go,lua,py,cpp,fastapi,pygame,selenium)
 - #### Desktop:
   ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
+___
 ### Events
 &emsp;Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
 
