@@ -8,7 +8,7 @@
 &emsp;Student at the Federal Institute of Sergipe (IFS) in the Integrated Technical Course in Computer Maintenance and Support. Independent developer of small-scale applications and software with over 3 years of experience, using several tools, including programming languages ​​such as Python, Go, Lua, C++ and GML; and some libraries and work environments, such as FastAPI, Pygame, and Selenium.
 <div align="center">
   <a href="https://gist.github.com/moon2501ry" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white" target="_blank">
   </a>
   
   [![Discord](https://img.shields.io/badge/Discord-Profile-5d6af2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1310759970660286494)
