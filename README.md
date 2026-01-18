@@ -1,11 +1,11 @@
 <h1 align="center">Ryan Amo. Oli.</h1>
 
-- ⏳ <b>15</b> years old;
 - 🌱 I'm learning <b>Go, Lua, Linux and APIs</b>;
 - 🏫 I am currently in <b>Technical</b> High School.
 
 <div align="center" target="_blank">
   <a href="https://gist.github.com/moon2501ry" target="_blank"><img src="https://img.shields.io/badge/GitHub-Gists-1f2124?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Gists" target="_blank"></a>
+  <a href="https://steamcommunity.com/id/moon2501ry" target="_blank"><img src="https://img.shields.io/badge/Steam-171a21?style=for-the-badge&logo=steam&logoColor=c7d5e0" alt="Steam Profile" target="_blank"></a>
   <a href="https://discord.com/users/1310759970660286494" target="_blank"><img src="https://img.shields.io/badge/Discord-5d6af2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" target="_blank"></a>
   <a href="https://moon2501.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile" target="_blank"></a>
   <a href="https://gx.games/studios/458ae6ee-8c67-4584-a7b0-c0be620b83f3/" target="_blank"><img src="https://img.shields.io/badge/EonTailor-fb8b6b?style=for-the-badge&logo=opera&logoColor=white" alt="Gx.games" target="_blank"></a>
