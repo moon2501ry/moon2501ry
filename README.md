@@ -11,6 +11,7 @@
   <a href="https://gx.games/studios/458ae6ee-8c67-4584-a7b0-c0be620b83f3/" target="_blank"><img src="https://img.shields.io/badge/EonTailor-fb8b6b?style=for-the-badge&logo=opera&logoColor=white" alt="Gx.games" target="_blank"></a>
 </div>
 <div align="center" target="_blank">
+  <a href="https://www.linkedin.com/in/ryan-amo-oli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn Curriculum" target="_blank"></a>
   <a href="mailto:ryanamorimcontato@email.com" target="_blank"><img src="https://img.shields.io/badge/Contact_Email-blue?style=for-the-badge&logo=maildotcom&logoColor=white" alt="Contact Email" target="_blank"></a>
   <a href="https://orcid.org/0009-0002-9553-9713" target="_blank"><img src="https://img.shields.io/badge/ORCID-c8ffc8?style=for-the-badge&logo=orcid&logoColor=black" alt="ORCID ID" target="_blank"></a>
   <a href="http://lattes.cnpq.br/2286013190395148" target="_blank"><img src="https://img.shields.io/badge/CNPq_Lattes-2368c8?style=for-the-badge" alt="Lattes Curriculum" target="_blank"></a>
