@@ -9,6 +9,7 @@
   <a href="https://discord.com/users/1310759970660286494" target="_blank"><img src="https://img.shields.io/badge/Discord-5d6af2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile" target="_blank"></a>
   <a href="https://moon2501.itch.io/" target="_blank"><img src="https://img.shields.io/badge/Itch.io-fa5c5c?style=for-the-badge&logo=itch.io&logoColor=white" alt="Itch.io Profile" target="_blank"></a>
   <a href="https://gx.games/studios/458ae6ee-8c67-4584-a7b0-c0be620b83f3/" target="_blank"><img src="https://img.shields.io/badge/EonTailor-fb8b6b?style=for-the-badge&logo=opera&logoColor=white" alt="Gx.games" target="_blank"></a>
+  <a href="https://open.spotify.com/show/3mUIGSEvgF9rxLIAGhLsig?si=49b9f19965d34177/" target="_blank"><img src="https://img.shields.io/badge/Spotify-PodCast_RPG-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Gx.games" target="_blank"></a>
 </div>
 <div align="center" target="_blank">
   <a href="https://www.linkedin.com/in/ryan-amo-oli" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn Curriculum" target="_blank"></a>
