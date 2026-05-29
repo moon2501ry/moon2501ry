@@ -26,6 +26,18 @@ ___
 - #### Desktop:
   ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
 ___
+### My Git Animal:
+<div align="center">
+<a href="https://commitworth.vercel.app/dashboard/moon2501ry">
+  <img
+    src="https://render.gitanimals.org/lines/moon2501ry?pet-id=848339120055531801"
+    width="500"
+    height="200"
+  />
+</a>
+</div>
+
+___
 ### Events
 &emsp;Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
 
