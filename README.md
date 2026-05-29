@@ -26,6 +26,12 @@ ___
 - #### Desktop:
   ![Desktop](https://go-skill-icons.vercel.app/api/icons?i=linux,vscode,bash,i3,debian,mint)
 ___
+### Events
+&emsp;Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
+
+- Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
+![View Counter](https://komarev.com/ghpvc/?username=moon2501ry&label=VIEWS&style=pixel&color=lightgray)
+___
 ### My Git Animal:
 <div align="center">
 <a href="https://commitworth.vercel.app/dashboard/moon2501ry">
@@ -36,10 +42,3 @@ ___
   />
 </a>
 </div>
-
-___
-### Events
-&emsp;Participated in events related to Computer Science, Software Development, and Multimedia Design, mainly taught by IFS - Itabaiana Campus.
-
-- Participated in the local [Programming Olympiad in the Programming Logic category](https://github.com/moon2501ry/moon2501ry/blob/main/tmpapc0suar.pdf), taught and organized by IFS - Itabaiana Campus, where he qualified in 2nd place.
-![View Counter](https://komarev.com/ghpvc/?username=moon2501ry&label=VIEWS&style=pixel&color=lightgray)
